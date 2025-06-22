@@ -1,8 +1,0 @@
-name: myenv
-channels:
-  - conda-forge
-dependencies:
-  - python=3.11  # Use your required version (3.10, 3.11, or 3.12)
-  - pip
-  - pip:
-    - -r requirements.txt
